@@ -1,0 +1,18 @@
+﻿@font-face {
+	font-family: xDana;
+	font-style: normal;
+	font-weight: bold;
+	src: url('./dana-bold.eot');
+	src: url('./dana-bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('./dana-bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('./dana-bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: xDana;
+	font-style: normal;
+	font-weight: normal;
+	src: url('./dana-regular.eot');
+	src: url('./dana-regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('./dana-regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('./dana-regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}

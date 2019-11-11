@@ -1,0 +1,52 @@
+{
+  "name": "asanshahr",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.5.2",
+    "@material-ui/icons": "^4.4.3",
+    "@material-ui/lab": "^4.0.0-alpha.30",
+    "@material-ui/styles": "^4.5.2",
+    "intl": "^1.2.5",
+    "jss-rtl": "^0.3.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-redux": "latest",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.2.0",
+    "react-infinite-loader": "^1.0.4",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "enzyme": "3.8.0",
+    "enzyme-adapter-react-16": "1.9.1",
+    "react-addons-test-utils": "15.6.2",
+    "react-test-renderer": "16.4.2",
+    "redux-mock-store": "^1.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
