@@ -1,5 +1,5 @@
 # ASANSHAHR APP
-the sample app by Alireza Esfahani <aynzad@gmail.com>
+Just a test project (sample app) for asanshahr.ir by Alireza Esfahani <aynzad@gmail.com>
 
 ## Instalation
 `yarn` or `npm i`
@@ -17,6 +17,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.<br />
+
+mock login credential.<br />
+username: aynzad@gmail.com<br />
+password: 123<br />
 
 ### `yarn build`
 
